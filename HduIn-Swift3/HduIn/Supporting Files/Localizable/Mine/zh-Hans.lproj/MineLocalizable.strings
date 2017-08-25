@@ -1,0 +1,26 @@
+/* 
+  MineLocalizable.strings
+  HduIn
+
+  Created by Lucas on 3/15/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+// MineView
+"mine_title_today_courses" = "今天的课";
+"mine_label_whole_week_courses" = "整周课表";
+"mine_title_sunny_sport" = "阳光长跑";
+"mine_label_sunny_sport_details" = "长跑详情";
+"mine_title_ic_card" = "一卡通";
+"mine_label_ic_card_details" = "消费详情";
+"mine_title_exam_score" = "考试成绩";
+"mine_title_exam_schedule" = "考试安排";
+
+// Mine Sunny Sport
+"mine_label_sunny_sport_records" = "乐跑次数";
+"mine_label_sunny_sport_remaining" = "剩余次数";
+"mine_label_sunny_sport_avg_speed" = "平均速度";
+
+// Mine ICCard
+"mine_label_ic_card_remaining" = "卡内余额";
+"mine_label_ic_card_cny" = "元";

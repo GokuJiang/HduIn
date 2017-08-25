@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  HduIn
+
+  Created by Lucas Woo on 3/3/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+"title_news" = "校园资讯";
+"title_mine" = "我的杭电";
+"title_group" = "小组论坛";
+"title_more" = "更多";
+
+"title_error_encountered" = "碰到了错误";
+"label_ok" = "好的";
+
+// StaffType
+"label_bechelor" = "本科生";
+"label_master" = "硕士生";
+"label_employee" = "教职工";
+
+// Invalid Token
+"action_relogin" = "重新登陆";
+"action_change_password" = "修改密码";
+"title_invalid_token" = "无效的认证";
+"message_invalid_token" = "因学校安全限制，你的账号在其他设备登陆，需要重新登陆。\n如果本人操作，请尽快修改密码。";
+
+// Test Paragraph
+"test_title" = "些機告望能市能果牛直司男謝日間分能議天去傳自英對利間金怎無一";
+"test_paragraph" = "或時事決，有時老中不親處見和以示地多英是、港校似動，更物個人的：錯是個了。力這選會到十交上我一接老算外到人整有！問腳會回化前量黨腦案便父他，戰十生禮。行老看注安機上發經，環多聞，能外母畫信先對落里是深族球足行的的機現了辦，同景分一老進好小無近開球。";

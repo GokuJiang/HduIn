@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C607B35C005A6552F0BBB5A4201A0EB158521E2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C607B35C005A6552F0BBB5A4201A0EB158521E2C" : 9223372036854775807,
+    "6E0469E6F3FF070D0DA26A65814E759D1283FB81" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ECE82D9E-1977-4DB2-960D-19936324E892",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C607B35C005A6552F0BBB5A4201A0EB158521E2C" : "CodeYang\/",
+    "6E0469E6F3FF070D0DA26A65814E759D1283FB81" : "Redhome\/RainbowNavigation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HduIn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HduIn-Swift3\/HduIn.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:DanisFabric\/RainbowNavigation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E0469E6F3FF070D0DA26A65814E759D1283FB81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/redhomestudio\/hduin-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C607B35C005A6552F0BBB5A4201A0EB158521E2C"
+    }
+  ]
+}

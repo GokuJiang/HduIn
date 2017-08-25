@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  HduIn
+
+  Created by Lucas Woo on 3/3/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+"title_news" = "Campus";
+"title_mine" = "inHDU";
+"title_group" = "Discuz";
+"title_more" = "More";
+
+"title_error_encountered" = "Error encountered";
+"label_ok" = "OK";
+
+// StaffType
+"label_bechelor" = "Student: Bechelor";
+"label_master" = "Student: Master";
+"label_employee" = "Employee";
+
+// Invalid Token
+"action_relogin" = "Relogin";
+"action_change_password" = "Change Password";
+"title_invalid_token" = "Invalid Token";
+"message_invalid_token" = "For security profile of HDU, your account has logged in at other device - reloging in is required to continue.\nIf that action is not taken by you, please change your password.";
+
+// Test Paragraph
+"test_title" = "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.";
+"test_paragraph" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper ac libero vel imperdiet. Proin tempus dolor lectus, nec ultricies enim mattis id. Nam velit sem, vehicula non eros luctus, viverra sodales urna. Cras eget volutpat ex, eget laoreet ante. Nam placerat arcu neque, et auctor sem iaculis sed. Phasellus rutrum est ac nulla condimentum commodo. Aliquam nec velit diam. Curabitur elementum dolor ut nisi sodales pulvinar. Praesent eu elit id tellus dictum hendrerit. Quisque blandit viverra erat, quis elementum dolor fringilla vel.";

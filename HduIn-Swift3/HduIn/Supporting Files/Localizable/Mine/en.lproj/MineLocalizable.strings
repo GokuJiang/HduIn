@@ -1,0 +1,26 @@
+/* 
+  MineLocalizable.strings
+  HduIn
+
+  Created by Lucas on 3/15/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+// MineView
+"mine_title_today_courses" = "Today Courses";
+"mine_label_whole_week_courses" = "All Courses";
+"mine_title_sunny_sport" = "Sunny Sport";
+"mine_label_sunny_sport_details" = "Details";
+"mine_title_ic_card" = "IC Card";
+"mine_label_ic_card_details" = "Details";
+"mine_title_exam_score" = "Exam Scores";
+"mine_title_exam_schedule" = "Exam Schedules";
+
+// Mine Sunny Sport
+"mine_label_sunny_sport_records" = "Records Count";
+"mine_label_sunny_sport_remaining" = "Remaining";
+"mine_label_sunny_sport_avg_speed" = "Average Speed";
+
+// Mine ICCard
+"mine_label_ic_card_remaining" = "Remaining";
+"mine_label_ic_card_cny" = "CNY";

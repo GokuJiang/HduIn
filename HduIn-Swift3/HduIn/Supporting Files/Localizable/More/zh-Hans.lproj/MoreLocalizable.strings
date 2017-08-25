@@ -1,0 +1,23 @@
+/* 
+  MoreLocalizable.strings
+  HduIn
+
+  Created by Lucas on 3/15/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+// MoreView
+"more_title_library" = "图书馆";
+"more_title_course_selection" = "选课系统";
+"more_title_course_selection_disabled" = "选课系统（将在选课时间开放）";
+"more_title_repairs" = "校园报修";
+
+"more_title_settings" = "设置";
+"more_title_feedback" = "帮助与反馈";
+"more_title_switch_account" = "切换账号";
+"more_title_about" = "关于";
+
+// FeedbackView
+"feedback_placeholder_contact" = "请填写你的联系方式";
+"feedback_placeholder_text_input" = "请填写反馈";
+"feedback_label_send" = "发送";

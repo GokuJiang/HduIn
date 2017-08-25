@@ -1,0 +1,23 @@
+/* 
+  MoreLocalizable.strings
+  HduIn
+
+  Created by Lucas on 3/15/16.
+  Copyright © 2016 Redhome. All rights reserved.
+*/
+
+// MoreView
+"more_title_library" = "Library";
+"more_title_course_selection" = "Course Selection";
+"more_title_course_selection_disabled" = "Course Selection (Not available yet)";
+"more_title_repairs" = "Campus Repairing";
+
+"more_title_settings" = "Settings";
+"more_title_feedback" = "Feedback";
+"more_title_switch_account" = "Switch Account";
+"more_title_about" = "About Us";
+
+// FeedbackView
+"feedback_placeholder_contact" = "Enter your contact information";
+"feedback_placeholder_text_input" = "Your feedback here";
+"feedback_label_send" = "Send";
