@@ -14,14 +14,6 @@ import AVOSCloud
 struct Networking {
 
     enum Base: String {
-        case HduAPI = "https://api.hdu.edu.cn/"
-        case HduIn = "https://hduin.hdu.edu.cn/"
-        //case HduIn = "http://3404fd20.redhome.cc"
-        case Leanapp = "https://hduin.leanapp.cn/"
-
-        case News = "http://redstone.redhome.cc"
-        case Flarum = "http://flarum.redhome.cc"
-        
         case Test = "http://115.28.92.130:1337"
     }
 
